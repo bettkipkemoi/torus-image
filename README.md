@@ -8,4 +8,5 @@ This script does the following:
 
 When you run this script, it will open a window displaying a 3D visualization of a torus as shown below. You can adjust the R and r values to change the shape of the torus, or modify the number of points in u and v for finer or coarser detail.
 
-![image](/images/Figure_1.png)# torus-image
+# torus sketch
+![image](/images/Figure_1.png)
